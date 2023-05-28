@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(221, 246, 246);
+}
+h1 {
+    color: rgb(7, 7, 64);
+}
+a {
+    color: chocolate;
+}
+h2 {
+    color: rgb(1, 19, 1);
+}
+img {
+    width: 300px;
+}
+.big_text {
+    font-size: 1,5rem;
+}
+a:hover {
+    color: rgb(129, 27, 231);
+}
+img {
+    border: solid rgb(35, 110, 10)  5px;
+}
+.border {
+    border: solid green 5px;
+}
